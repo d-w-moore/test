@@ -2,4 +2,4 @@
 
 a diagram
 
-![Diagram](./cloudy.drawio)
+![Diagram](./cloudy.png)
